@@ -1,0 +1,7 @@
+{
+  "name": "evaluacion-unidad2-maximiliano-quiroz",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}

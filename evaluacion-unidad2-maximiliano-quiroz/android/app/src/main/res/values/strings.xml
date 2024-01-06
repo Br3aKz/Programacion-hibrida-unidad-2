@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">evaluacion-unidad2-maximiliano-quiroz</string>
+    <string name="title_activity_main">evaluacion-unidad2-maximiliano-quiroz</string>
+    <string name="package_name">evaluacion.unidad2.maximiliano.quiroz</string>
+    <string name="custom_url_scheme">evaluacion.unidad2.maximiliano.quiroz</string>
+</resources>
